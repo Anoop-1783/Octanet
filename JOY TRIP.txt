@@ -396,7 +396,7 @@
 </div>
          <!-- END EDMO HTML (Happy Coding!)-->
       </main>
-      <footer class="cd__credit">Author: Rahul - Distributed By: <a title="Free web design code & scripts" href="https://www.codehim.com?source=demo-page" target="_blank">CodeHim</a></footer>
+      <footer><a title="Tech Solutions"></a></footer>
       <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
       <!-- Script JS -->
